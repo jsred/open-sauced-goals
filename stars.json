@@ -1,38 +1,38 @@
 [
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34596,
-    "open_issues_count": 820,
-    "forks_count": 3164
+    "stargazers_count": 34665,
+    "open_issues_count": 823,
+    "forks_count": 3165
   },
   {
     "full_name": "panko-serializer/panko_serializer",
-    "stargazers_count": 338,
+    "stargazers_count": 339,
     "open_issues_count": 20,
     "forks_count": 21
   },
   {
     "full_name": "gofiber/recipes",
-    "stargazers_count": 1743,
+    "stargazers_count": 1749,
     "open_issues_count": 6,
-    "forks_count": 298
+    "forks_count": 302
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 22358,
-    "open_issues_count": 38,
-    "forks_count": 1136
+    "stargazers_count": 22443,
+    "open_issues_count": 33,
+    "forks_count": 1139
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 208949,
-    "open_issues_count": 48,
-    "forks_count": 23906
+    "stargazers_count": 209260,
+    "open_issues_count": 53,
+    "forks_count": 23938
   },
   {
     "full_name": "tobspr/shapez.io",
-    "stargazers_count": 5198,
-    "open_issues_count": 170,
-    "forks_count": 1036
+    "stargazers_count": 5202,
+    "open_issues_count": 173,
+    "forks_count": 1040
   }
 ]

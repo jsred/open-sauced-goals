@@ -1,44 +1,44 @@
 [
   {
     "full_name": "jsonapi-serializer/jsonapi-serializer",
-    "stargazers_count": 1208,
+    "stargazers_count": 1211,
     "open_issues_count": 60,
     "forks_count": 112
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 35520,
-    "open_issues_count": 843,
-    "forks_count": 3246
+    "stargazers_count": 35573,
+    "open_issues_count": 845,
+    "forks_count": 3250
   },
   {
     "full_name": "panko-serializer/panko_serializer",
-    "stargazers_count": 357,
+    "stargazers_count": 358,
     "open_issues_count": 20,
     "forks_count": 22
   },
   {
     "full_name": "gofiber/recipes",
-    "stargazers_count": 1856,
-    "open_issues_count": 5,
-    "forks_count": 326
+    "stargazers_count": 1863,
+    "open_issues_count": 7,
+    "forks_count": 327
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 23256,
-    "open_issues_count": 39,
-    "forks_count": 1194
+    "stargazers_count": 23315,
+    "open_issues_count": 35,
+    "forks_count": 1196
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 215829,
+    "stargazers_count": 216190,
     "open_issues_count": 70,
-    "forks_count": 24665
+    "forks_count": 24721
   },
   {
     "full_name": "tobspr-games/shapez.io",
-    "stargazers_count": 5320,
+    "stargazers_count": 5329,
     "open_issues_count": 131,
-    "forks_count": 1068
+    "forks_count": 1067
   }
 ]
